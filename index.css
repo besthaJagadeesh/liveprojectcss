@@ -1,0 +1,47 @@
+body{
+    background-color:bisque;
+}
+.ul1{
+    display: block;
+}
+.li1{
+    text-decoration: none;
+    display: inline-block;
+    margin: 100px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+header{
+    background-color: aquamarine;
+    height: 150px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 30px;
+    font-family: fantasy;
+    letter-spacing: 15px;
+    font-weight: 100;
+}
+.container1{
+    background-color: aquamarine;
+    width: 250px;
+    height: 350px;
+    padding: 15px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-left: 15px;
+    
+}
+.contain{
+    display: grid;
+    grid-template-columns: 300px 700px;
+    margin-top: 10px;
+    gap: 5px;
+}
+img{
+    width: 1145px;
+    height: 350px;
+    margin-right: 10px;
+}
+.footer{
+    text-align: center;
+}
